@@ -578,6 +578,9 @@ body {
 .clients {
   padding-top: 140px;
   padding-bottom: 151px;
+  background-image: url("..//images/clients-bg.svg");
+  background-repeat: no-repeat;
+  background-position: calc(50% + -622px) calc(50% + -135px);
   background-color: #012F34;
 }
 .clients__title {
